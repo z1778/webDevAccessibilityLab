@@ -72,3 +72,11 @@ footer {
   text-align: center;
   font-style: italic;
 }
+header h1 a {
+  color: #fffbfb;
+  text-decoration: none;
+}
+header a {
+  color: #ffffff;
+  text-decoration: none;
+}
